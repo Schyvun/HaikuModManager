@@ -27,7 +27,6 @@ class ModManager():
     DictOfLocalModsAndVersions = {}
     # Extract the Name,Url from modlinks.xml into this Dict
     DictOfExternalModsAndVersions = {}
-    headers = { 'Authorization': 'token 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'}
 
     def __init__(self):
         # Find every local Name,Version and save it in the dictionary
