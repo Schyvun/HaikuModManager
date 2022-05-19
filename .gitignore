@@ -9,7 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
-*.dll
+HaikuModManager/*.dll
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
