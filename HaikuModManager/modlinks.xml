@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ModLinks>
+	<Mod>
+		<Name> Haiku Debug Mod </Name>
+		<Description> General Purpose Debug Mod </Description>
+		<Link> https://api.github.com/repos/Jarlyk/Haiku.DebugMod/releases/latest </Link>
+		<Dependencies> Haiku Core Modding API </Dependencies>
+	</Mod>
+	<Mod>
+		<Name> Haiku Core Modding API </Name> 
+		<Description> Modding API for Haiku </Description> 
+		<Link> https://api.github.com/repos/Jarlyk/Haiku.ModdingApi/releases/latest </Link> 
+		<Dependencies />
+	</Mod>
+	<Mod>
+		<Name> </Name>
+		<Description> </Description>
+		<Link> </Link>
+		<Dependencies> </Dependencies>
+	</Mod>
+</ModLinks>
