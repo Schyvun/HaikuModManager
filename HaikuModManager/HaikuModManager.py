@@ -16,9 +16,6 @@ class Mod():
         self.ModLink = url
         self.Version = version
         self.currentState = self.state()
-        
-mod1 = Mod('debug','github.com/debug','1.0.0.1')
-mod1.currentState.canUpdate = True
 
 class ModManager():
     # Game Location
